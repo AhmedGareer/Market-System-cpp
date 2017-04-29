@@ -1,0 +1,2 @@
+# Market-System-cpp
+Almost all markets are automated to some degree, even though the smallest kind of markets are usually limited to point of sales, the most required features of any market are inventory management and of course POS, which any kind of market is based on. This market system greatly offers both, with a user-based system implemented, everything is easily controlled by users accounts.
