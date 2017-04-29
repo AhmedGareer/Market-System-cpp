@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="HyperMarket v0.2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/HyperMarket v0" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/HyperMarket v0" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Admin.cpp" />
+		<Unit filename="Admin.h" />
+		<Unit filename="Cashier.cpp" />
+		<Unit filename="Cashier.h" />
+		<Unit filename="Customer.cpp" />
+		<Unit filename="Customer.h" />
+		<Unit filename="IUser.cpp" />
+		<Unit filename="IUser.h" />
+		<Unit filename="answer.cpp" />
+		<Unit filename="answer.h" />
+		<Unit filename="cart.cpp" />
+		<Unit filename="cart.h" />
+		<Unit filename="fileManagement.cpp" />
+		<Unit filename="fileManagement.h" />
+		<Unit filename="inventory.cpp" />
+		<Unit filename="inventory.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="market.cpp" />
+		<Unit filename="market.h" />
+		<Unit filename="officer.cpp" />
+		<Unit filename="officer.h" />
+		<Unit filename="product.cpp" />
+		<Unit filename="product.h" />
+		<Unit filename="programManager.cpp" />
+		<Unit filename="programManager.h" />
+		<Unit filename="question.cpp" />
+		<Unit filename="question.h" />
+		<Unit filename="receipt.cpp" />
+		<Unit filename="receipt.h" />
+		<Unit filename="report.cpp" />
+		<Unit filename="report.h" />
+		<Unit filename="safe.cpp" />
+		<Unit filename="safe.h" />
+		<Unit filename="users.cpp" />
+		<Unit filename="users.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

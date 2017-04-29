@@ -1,0 +1,1223 @@
+# depslib dependency file v1.0
+1419465808 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\admin.cpp
+	"Admin.h"
+	"users.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1419465808 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\admin.h
+	<iostream>
+	<string>
+	<fstream>
+	"question.h"
+	"users.h"
+	"IUser.h"
+	"answer.h"
+	"receipt.h"
+	"report.h"
+	"safe.h"
+
+1419440968 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\users.h
+
+1419355912 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\question.h
+
+1418988923 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\answer.h
+
+1418988935 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\answer.cpp
+	"answer.h"
+
+1419443922 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\cashier.cpp
+	"Cashier.h"
+	"users.h"
+	<iostream>
+	"windows.h"
+	<conio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1419441311 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\cashier.h
+	<vector>
+	"users.h"
+	"product.h"
+	<iostream>
+	<string>
+	<fstream>
+	"IUser.h"
+	"receipt.h"
+
+1419444191 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\customer.cpp
+	"Customer.h"
+	"users.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1419441311 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\customer.h
+	"users.h"
+	"question.h"
+	<iostream>
+	<string>
+	"IUser.h"
+	<fstream>
+	"product.h"
+	<vector>
+	"report.h"
+
+1419234051 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\filemanagment.cpp
+	"fileManagment.h"
+
+1419234051 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\filemanagment.h
+
+1416521207 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\inventory.cpp
+	"inventory.h"
+
+1419459633 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\inventory.h
+	<iostream>
+	<string>
+	<fstream>
+	"product.h"
+
+1419465808 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\main.cpp
+	<iostream>
+	<conio.h>
+	"windows.h"
+	"users.h"
+	<fstream>
+	"Admin.h"
+	"programManager.h"
+	"Customer.h"
+	"inventory.h"
+	"Cashier.h"
+	"officer.h"
+	"question.h"
+	"answer.h"
+	"receipt.h"
+	"cart.h"
+	"report.h"
+	"safe.h"
+
+1419441311 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\officer.h
+	"users.h"
+	"product.h"
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"IUser.h"
+
+1419332310 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\product.h
+
+1418319206 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\product.cpp
+	"product.h"
+
+1418990106 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\question.cpp
+	"question.h"
+
+1419441037 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\users.cpp
+	"users.h"
+
+1419441028 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\officer.cpp
+	"officer.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1418742784 source:e:\acm\last one market\hypermarket v0.2 [ranged]\admin.cpp
+	"Admin.h"
+	"Users.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+
+1418494127 e:\acm\last one market\hypermarket v0.2 [ranged]\admin.h
+	"Users.h"
+	<iostream>
+	<string>
+	<fstream>
+	"question.h"
+	"answer.h"
+
+1418410934 e:\acm\last one market\hypermarket v0.2 [ranged]\users.h
+	<iostream>
+	<string>
+	<fstream>
+
+1418578468 e:\acm\last one market\hypermarket v0.2 [ranged]\question.h
+
+1418578468 e:\acm\last one market\hypermarket v0.2 [ranged]\answer.h
+
+1418418283 source:e:\acm\last one market\hypermarket v0.2 [ranged]\answer.cpp
+	"answer.h"
+
+1418759953 source:e:\acm\last one market\hypermarket v0.2 [ranged]\cashier.cpp
+	"Cashier.h"
+	"Users.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+
+1418759923 e:\acm\last one market\hypermarket v0.2 [ranged]\cashier.h
+	<vector>
+	"Users.h"
+	"product.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1418480981 e:\acm\last one market\hypermarket v0.2 [ranged]\product.h
+
+1418747722 source:e:\acm\last one market\hypermarket v0.2 [ranged]\customer.cpp
+	"Customer.h"
+	"Users.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+
+1418418036 e:\acm\last one market\hypermarket v0.2 [ranged]\customer.h
+	"Users.h"
+	"question.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1418848349 source:e:\acm\last one market\hypermarket v0.2 [ranged]\filemanagment.cpp
+	"fileManagment.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+
+1418578468 e:\acm\last one market\hypermarket v0.2 [ranged]\filemanagment.h
+	<iostream>
+	<string>
+	<fstream>
+
+1416521207 source:e:\acm\last one market\hypermarket v0.2 [ranged]\inventory.cpp
+	"inventory.h"
+
+1418319116 e:\acm\last one market\hypermarket v0.2 [ranged]\inventory.h
+	<iostream>
+	<string>
+	<fstream>
+
+1418739787 source:e:\acm\last one market\hypermarket v0.2 [ranged]\officer.cpp
+	"officer.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+
+1418669724 e:\acm\last one market\hypermarket v0.2 [ranged]\officer.h
+	"Users.h"
+	"product.h"
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+
+1418319206 source:e:\acm\last one market\hypermarket v0.2 [ranged]\product.cpp
+	"product.h"
+
+1418399642 source:e:\acm\last one market\hypermarket v0.2 [ranged]\question.cpp
+	"question.h"
+
+1418488117 source:e:\acm\last one market\hypermarket v0.2 [ranged]\users.cpp
+	"Users.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+
+1418849547 source:e:\acm\last one market\hypermarket v0.2 [ranged]\main.cpp
+	<iostream>
+	"windows.h"
+	<fstream>
+	"Users.h"
+	"Admin.h"
+	"fileManagment.h"
+	"Customer.h"
+	"inventory.h"
+	"Cashier.h"
+	"officer.h"
+	"question.h"
+	"answer.h"
+
+1418742784 source:c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\admin.cpp
+	"Admin.h"
+	"Users.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+
+1418494127 c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\admin.h
+	"Users.h"
+	<iostream>
+	<string>
+	<fstream>
+	"question.h"
+	"answer.h"
+
+1418410934 c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\users.h
+	<iostream>
+	<string>
+	<fstream>
+
+1418578468 c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\question.h
+
+1418578468 c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\answer.h
+
+1418418283 source:c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\answer.cpp
+	"answer.h"
+
+1418759953 source:c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\cashier.cpp
+	"Cashier.h"
+	"Users.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+
+1418759923 c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\cashier.h
+	<vector>
+	"Users.h"
+	"product.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1418480981 c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\product.h
+
+1418747722 source:c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\customer.cpp
+	"Customer.h"
+	"Users.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+
+1418418036 c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\customer.h
+	"Users.h"
+	"question.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1418848349 source:c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\filemanagment.cpp
+	"fileManagment.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+
+1418578468 c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\filemanagment.h
+	<iostream>
+	<string>
+	<fstream>
+
+1416521207 source:c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\inventory.cpp
+	"inventory.h"
+
+1418319116 c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\inventory.h
+	<iostream>
+	<string>
+	<fstream>
+
+1418850971 source:c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\main.cpp
+	<iostream>
+	"windows.h"
+	<fstream>
+	"Users.h"
+	"Admin.h"
+	"fileManagment.h"
+	"Customer.h"
+	"inventory.h"
+	"Cashier.h"
+	"officer.h"
+	"question.h"
+	"answer.h"
+
+1418669724 c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\officer.h
+	"Users.h"
+	"product.h"
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+
+1418739787 source:c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\officer.cpp
+	"officer.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+
+1418319206 source:c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\product.cpp
+	"product.h"
+
+1418399642 source:c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\question.cpp
+	"question.h"
+
+1418488117 source:c:\users\ldoujinshi\desktop\hypermarket v0.2 [ranged]\users.cpp
+	"Users.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+
+1418983319 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\userinterface.cpp
+	"userInterface.h"
+
+1419242513 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\userinterface.h
+	<iostream>
+	<string>
+	<fstream>
+	"userInfo.h"
+
+1419443897 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\receipt.h
+	<string>
+
+1419443897 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\receipt.cpp
+	"receipt.h"
+	<ctime>
+
+1419066140 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\userinfo.cpp
+	"userInfo.h"
+
+1419066135 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\userinfo.h
+
+1419243554 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\programmanager.cpp
+	"programManager.h"
+	<conio.h>
+	<iostream>
+	"windows.h"
+	<string>
+	<fstream>
+
+1419349378 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\programmanager.h
+	"windows.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1419259037 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\filemanagement.cpp
+	"fileManagement.h"
+
+1419441018 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\filemanagement.h
+	<string>
+	<fstream>
+	"users.h"
+
+1419341011 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\cart.cpp
+	"cart.h"
+
+1419341028 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\cart.h
+	<vector>
+	"product.h"
+
+1419444146 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\report.h
+	<string>
+
+1419444146 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\report.cpp
+	"report.h"
+
+1419364532 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\admin.cpp
+	"Admin.h"
+	"userInfo.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1419350747 d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\admin.h
+	<iostream>
+	<string>
+	<fstream>
+	"question.h"
+	"userInfo.h"
+	"userInterface.h"
+	"answer.h"
+	"receipt.h"
+	"report.h"
+
+1419355912 d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\question.h
+
+1419066135 d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\userinfo.h
+
+1419242513 d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\userinterface.h
+	<iostream>
+	<string>
+	<fstream>
+	"userInfo.h"
+
+1418988923 d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\answer.h
+
+1419289494 d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\receipt.h
+	<string>
+
+1419346687 d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\report.h
+
+1419284217 d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\filemanagement.h
+	<string>
+	<fstream>
+	"userInfo.h"
+
+1418988935 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\answer.cpp
+	"answer.h"
+
+1419341011 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\cart.cpp
+	"cart.h"
+
+1419341028 d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\cart.h
+	<vector>
+	"product.h"
+
+1419332310 d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\product.h
+
+1419364532 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\cashier.cpp
+	"Cashier.h"
+	"userInfo.h"
+	<iostream>
+	"windows.h"
+	<conio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1419355002 d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\cashier.h
+	<vector>
+	"userInfo.h"
+	"product.h"
+	<iostream>
+	<string>
+	<fstream>
+	"userInterface.h"
+	"receipt.h"
+
+1419364532 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\customer.cpp
+	"Customer.h"
+	"userInfo.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1419346687 d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\customer.h
+	"userInfo.h"
+	"question.h"
+	<iostream>
+	<string>
+	"userInterface.h"
+	<fstream>
+	"product.h"
+	<vector>
+	"report.h"
+
+1419259037 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\filemanagement.cpp
+	"fileManagement.h"
+
+1416521207 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\inventory.cpp
+	"inventory.h"
+
+1418319116 d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\inventory.h
+	<iostream>
+	<string>
+	<fstream>
+
+1419364669 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\main.cpp
+	<iostream>
+	<conio.h>
+	"windows.h"
+	"userInfo.h"
+	<fstream>
+	"Admin.h"
+	"programManager.h"
+	"Customer.h"
+	"inventory.h"
+	"Cashier.h"
+	"officer.h"
+	"question.h"
+	"answer.h"
+	"receipt.h"
+	"cart.h"
+	"report.h"
+
+1419349378 d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\programmanager.h
+	"windows.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1419336101 d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\officer.h
+	"userInfo.h"
+	"product.h"
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"userInterface.h"
+
+1419364532 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\officer.cpp
+	"officer.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1418319206 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\product.cpp
+	"product.h"
+
+1419243554 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\programmanager.cpp
+	"programManager.h"
+	<conio.h>
+	<iostream>
+	"windows.h"
+	<string>
+	<fstream>
+
+1418990106 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\question.cpp
+	"question.h"
+
+1419008672 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\receipt.cpp
+	"receipt.h"
+	<ctime>
+
+1419346251 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\report.cpp
+	"report.h"
+
+1419066140 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\userinfo.cpp
+	"userInfo.h"
+
+1418983319 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged] [dat]\userinterface.cpp
+	"userInterface.h"
+
+1419440834 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\iuser.cpp
+	"IUser.h"
+
+1419441028 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\iuser.h
+	<iostream>
+	<string>
+	<fstream>
+	"users.h"
+
+1419465763 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\market.cpp
+	"market.h"
+
+1419465760 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\market.h
+	<string>
+
+1419453397 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\cashierstorage.cpp
+	"cashierStorage.h"
+
+1419453397 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\cashierstorage.h
+
+1419465770 source:d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\safe.cpp
+	"safe.h"
+
+1419465742 d:\sources\anime\specials\project\hypermarket v0.2 [ranged]\safe.h
+
+1419504189 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\admin.cpp
+	"Admin.h"
+	"users.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1419465808 e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\admin.h
+	<iostream>
+	<string>
+	<fstream>
+	"question.h"
+	"users.h"
+	"IUser.h"
+	"answer.h"
+	"receipt.h"
+	"report.h"
+	"safe.h"
+
+1419355912 e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\question.h
+
+1419440968 e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\users.h
+
+1419441028 e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\iuser.h
+	<iostream>
+	<string>
+	<fstream>
+	"users.h"
+
+1418988923 e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\answer.h
+
+1419443897 e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\receipt.h
+	<string>
+
+1419444146 e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\report.h
+	<string>
+
+1419465742 e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\safe.h
+
+1419441018 e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\filemanagement.h
+	<string>
+	<fstream>
+	"users.h"
+
+1418988935 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\answer.cpp
+	"answer.h"
+
+1419341011 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\cart.cpp
+	"cart.h"
+
+1419341028 e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\cart.h
+	<vector>
+	"product.h"
+
+1419332310 e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\product.h
+
+1419443922 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\cashier.cpp
+	"Cashier.h"
+	"users.h"
+	<iostream>
+	"windows.h"
+	<conio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1419441311 e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\cashier.h
+	<vector>
+	"users.h"
+	"product.h"
+	<iostream>
+	<string>
+	<fstream>
+	"IUser.h"
+	"receipt.h"
+
+1419444191 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\customer.cpp
+	"Customer.h"
+	"users.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1419441311 e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\customer.h
+	"users.h"
+	"question.h"
+	<iostream>
+	<string>
+	"IUser.h"
+	<fstream>
+	"product.h"
+	<vector>
+	"report.h"
+
+1419259037 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\filemanagement.cpp
+	"fileManagement.h"
+
+1416521207 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\inventory.cpp
+	"inventory.h"
+
+1419459633 e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\inventory.h
+	<iostream>
+	<string>
+	<fstream>
+	"product.h"
+
+1419440834 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\iuser.cpp
+	"IUser.h"
+
+1419512833 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\main.cpp
+	<iostream>
+	<conio.h>
+	"windows.h"
+	"users.h"
+	<fstream>
+	"Admin.h"
+	"programManager.h"
+	"Customer.h"
+	"inventory.h"
+	"Cashier.h"
+	"officer.h"
+	"question.h"
+	"answer.h"
+	"receipt.h"
+	"cart.h"
+	"report.h"
+	"safe.h"
+
+1419349378 e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\programmanager.h
+	"windows.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1419441311 e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\officer.h
+	"users.h"
+	"product.h"
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"IUser.h"
+
+1419465763 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\market.cpp
+	"market.h"
+
+1419465760 e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\market.h
+	<string>
+
+1419441028 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\officer.cpp
+	"officer.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1418319206 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\product.cpp
+	"product.h"
+
+1419243554 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\programmanager.cpp
+	"programManager.h"
+	<conio.h>
+	<iostream>
+	"windows.h"
+	<string>
+	<fstream>
+
+1418990106 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\question.cpp
+	"question.h"
+
+1419443897 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\receipt.cpp
+	"receipt.h"
+	<ctime>
+
+1419444146 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\report.cpp
+	"report.h"
+
+1419465770 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\safe.cpp
+	"safe.h"
+
+1419441037 source:e:\software engineering\level two\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\users.cpp
+	"users.h"
+
+1419512833 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\main.cpp
+	<iostream>
+	<conio.h>
+	"windows.h"
+	"users.h"
+	<fstream>
+	"Admin.h"
+	"programManager.h"
+	"Customer.h"
+	"inventory.h"
+	"Cashier.h"
+	"officer.h"
+	"question.h"
+	"answer.h"
+	"receipt.h"
+	"cart.h"
+	"report.h"
+	"safe.h"
+
+1419440968 e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\users.h
+
+1419465808 e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\admin.h
+	<iostream>
+	<string>
+	<fstream>
+	"question.h"
+	"users.h"
+	"IUser.h"
+	"answer.h"
+	"receipt.h"
+	"report.h"
+	"safe.h"
+
+1419355912 e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\question.h
+
+1419441028 e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\iuser.h
+	<iostream>
+	<string>
+	<fstream>
+	"users.h"
+
+1418988923 e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\answer.h
+
+1419443897 e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\receipt.h
+	<string>
+
+1419444146 e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\report.h
+	<string>
+
+1419465742 e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\safe.h
+
+1419349378 e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\programmanager.h
+	"windows.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1419441311 e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\customer.h
+	"users.h"
+	"question.h"
+	<iostream>
+	<string>
+	"IUser.h"
+	<fstream>
+	"product.h"
+	<vector>
+	"report.h"
+
+1419332310 e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\product.h
+
+1419459633 e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\inventory.h
+	<iostream>
+	<string>
+	<fstream>
+	"product.h"
+
+1419441311 e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\cashier.h
+	<vector>
+	"users.h"
+	"product.h"
+	<iostream>
+	<string>
+	<fstream>
+	"IUser.h"
+	"receipt.h"
+
+1419441311 e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\officer.h
+	"users.h"
+	"product.h"
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"IUser.h"
+
+1419341028 e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\cart.h
+	<vector>
+	"product.h"
+
+1419504189 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\admin.cpp
+	"Admin.h"
+	"users.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1419441018 e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\filemanagement.h
+	<string>
+	<fstream>
+	"users.h"
+
+1418988935 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\answer.cpp
+	"answer.h"
+
+1419341011 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\cart.cpp
+	"cart.h"
+
+1419443922 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\cashier.cpp
+	"Cashier.h"
+	"users.h"
+	<iostream>
+	"windows.h"
+	<conio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1419444191 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\customer.cpp
+	"Customer.h"
+	"users.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1419259037 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\filemanagement.cpp
+	"fileManagement.h"
+
+1416521207 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\inventory.cpp
+	"inventory.h"
+
+1419440834 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\iuser.cpp
+	"IUser.h"
+
+1419465763 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\market.cpp
+	"market.h"
+
+1419465760 e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\market.h
+	<string>
+
+1419441028 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\officer.cpp
+	"officer.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1418319206 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\product.cpp
+	"product.h"
+
+1419243554 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\programmanager.cpp
+	"programManager.h"
+	<conio.h>
+	<iostream>
+	"windows.h"
+	<string>
+	<fstream>
+
+1418990106 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\question.cpp
+	"question.h"
+
+1419443897 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\receipt.cpp
+	"receipt.h"
+	<ctime>
+
+1419444146 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\report.cpp
+	"report.h"
+
+1419465770 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\safe.cpp
+	"safe.h"
+
+1419441037 source:e:\software engineering\level two\first semester\pl2\pl2 project\final project\hypermarket v0.2 [ranged]\users.cpp
+	"users.h"
+
+1419504189 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\admin.cpp
+	"Admin.h"
+	"users.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1419465808 e:\software engineering\projects\hypermarket v0.2 [ranged]\admin.h
+	<iostream>
+	<string>
+	<fstream>
+	"question.h"
+	"users.h"
+	"IUser.h"
+	"answer.h"
+	"receipt.h"
+	"report.h"
+	"safe.h"
+
+1419355912 e:\software engineering\projects\hypermarket v0.2 [ranged]\question.h
+
+1419440968 e:\software engineering\projects\hypermarket v0.2 [ranged]\users.h
+
+1419441028 e:\software engineering\projects\hypermarket v0.2 [ranged]\iuser.h
+	<iostream>
+	<string>
+	<fstream>
+	"users.h"
+
+1418988923 e:\software engineering\projects\hypermarket v0.2 [ranged]\answer.h
+
+1419443897 e:\software engineering\projects\hypermarket v0.2 [ranged]\receipt.h
+	<string>
+
+1419444146 e:\software engineering\projects\hypermarket v0.2 [ranged]\report.h
+	<string>
+
+1419465742 e:\software engineering\projects\hypermarket v0.2 [ranged]\safe.h
+
+1419441018 e:\software engineering\projects\hypermarket v0.2 [ranged]\filemanagement.h
+	<string>
+	<fstream>
+	"users.h"
+
+1418988935 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\answer.cpp
+	"answer.h"
+
+1419341011 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\cart.cpp
+	"cart.h"
+
+1419341028 e:\software engineering\projects\hypermarket v0.2 [ranged]\cart.h
+	<vector>
+	"product.h"
+
+1419332310 e:\software engineering\projects\hypermarket v0.2 [ranged]\product.h
+
+1419443922 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\cashier.cpp
+	"Cashier.h"
+	"users.h"
+	<iostream>
+	"windows.h"
+	<conio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1419441311 e:\software engineering\projects\hypermarket v0.2 [ranged]\cashier.h
+	<vector>
+	"users.h"
+	"product.h"
+	<iostream>
+	<string>
+	<fstream>
+	"IUser.h"
+	"receipt.h"
+
+1419444191 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\customer.cpp
+	"Customer.h"
+	"users.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1419441311 e:\software engineering\projects\hypermarket v0.2 [ranged]\customer.h
+	"users.h"
+	"question.h"
+	<iostream>
+	<string>
+	"IUser.h"
+	<fstream>
+	"product.h"
+	<vector>
+	"report.h"
+
+1419259037 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\filemanagement.cpp
+	"fileManagement.h"
+
+1416521207 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\inventory.cpp
+	"inventory.h"
+
+1419459633 e:\software engineering\projects\hypermarket v0.2 [ranged]\inventory.h
+	<iostream>
+	<string>
+	<fstream>
+	"product.h"
+
+1419440834 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\iuser.cpp
+	"IUser.h"
+
+1419512833 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\main.cpp
+	<iostream>
+	<conio.h>
+	"windows.h"
+	"users.h"
+	<fstream>
+	"Admin.h"
+	"programManager.h"
+	"Customer.h"
+	"inventory.h"
+	"Cashier.h"
+	"officer.h"
+	"question.h"
+	"answer.h"
+	"receipt.h"
+	"cart.h"
+	"report.h"
+	"safe.h"
+
+1419349378 e:\software engineering\projects\hypermarket v0.2 [ranged]\programmanager.h
+	"windows.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1419441311 e:\software engineering\projects\hypermarket v0.2 [ranged]\officer.h
+	"users.h"
+	"product.h"
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"IUser.h"
+
+1419465763 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\market.cpp
+	"market.h"
+
+1419465760 e:\software engineering\projects\hypermarket v0.2 [ranged]\market.h
+	<string>
+
+1419441028 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\officer.cpp
+	"officer.h"
+	<iostream>
+	"windows.h"
+	<stdio.h>
+	<string>
+	<fstream>
+	"fileManagement.h"
+
+1418319206 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\product.cpp
+	"product.h"
+
+1419243554 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\programmanager.cpp
+	"programManager.h"
+	<conio.h>
+	<iostream>
+	"windows.h"
+	<string>
+	<fstream>
+
+1418990106 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\question.cpp
+	"question.h"
+
+1419443897 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\receipt.cpp
+	"receipt.h"
+	<ctime>
+
+1419444146 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\report.cpp
+	"report.h"
+
+1419465770 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\safe.cpp
+	"safe.h"
+
+1419441037 source:e:\software engineering\projects\hypermarket v0.2 [ranged]\users.cpp
+	"users.h"
+
